@@ -49,7 +49,6 @@ I love creating real-world solutions that blend modern UI/UX with high-performan
 ---
 
 ## 🌱 Learning & Goals
-- Advanced Android Jetpack & Clean Architecture
 - Publish apps to Play Store with strong monetization
 - Become a professional **Mobile Engineer** in a great product team
 
