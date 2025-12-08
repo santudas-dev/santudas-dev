@@ -32,20 +32,6 @@ I love creating real-world solutions that blend modern UI/UX with high-performan
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santudas-dev&show_icons=true&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santudas-dev&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santudas-dev&layout=compact&theme=react" />
-</p>
-
 ---
 
 ## 🌱 Learning & Goals
