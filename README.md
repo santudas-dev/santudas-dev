@@ -33,7 +33,7 @@
     <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
   </a>
   <a href="https://developer.android.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
@@ -49,11 +49,10 @@
 
 <br>
 
-<!-- GitHub Stats + Streak -->
+<!-- Current Focus / Creative Block -->
 <div align="center">
 
 ```diff
-+ 🚀 Currently Building: Healthcare & Smart Productivity Apps  
-+ 🎯 2025 Goal: Publish 3+ Monetized Apps on the Google Play Store  
-+ ⚡ Fun Fact: I sometimes debug in my dreams... and the fix actually works 😅  
-
++ 🌟 CURRENTLY BUILDING: Smart Healthcare & Productivity Apps  
++ 🎯 2025 VISION: Publish 3+ High-Quality Monetized Apps on Google Play Store 🚀  
++ 🤯 FUN FACT: I sometimes debug in my dreams... and wake up with the fix 😅✨  
