@@ -1,55 +1,58 @@
-<!-- Intro Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=0CF7E5&center=true&vCenter=true&width=800&lines=Hi+I'm+Santu+Das+👋;Flutter+%26+Kotlin+Developer+🚀;Mobile+App+Engineer+📱;Turning+Ideas+Into+Real+Apps)](https://git.io/typing-svg)
+<!-- Dynamic Typing Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9C0&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Santu+Das+%F0%9F%91%8B;Flutter+%7C+Kotlin+Developer+%F0%9F%9A%80;Turning+Ideas+Into+Real+Apps+%F0%9F%93%B1;Clean+Code+%7C+Beautiful+UI+%7C+Happy+Users" alt="Typing SVG" />
+</div>
 
----
+<br>
 
-## 👨‍💻 About Me
-I'm **Santu Das**, a passionate **Mobile App Developer** from **West Bengal, India**, who specializes in building smooth, scalable, and user-friendly applications using **Flutter** and **Kotlin**.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SantuDas&label=Profile%20Views&color=00D9C0&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/SantuDas?label=Followers&style=for-the-badge&color=00D9C0" alt="GitHub followers" />
+</div>
 
-I love creating real-world solutions that blend modern UI/UX with high-performance mobile engineering.
+<br>
 
----
-
-## 🔥 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
----
-
-## 🚀 What I Do
-- Build Android & cross-platform apps
-- Firebase authentication & realtime databases
-- Payment integration, Clean Architecture & State Management
-- UI/UX implementation with performance optimizations
-
-🧩 Currently working on:
-> Healthcare & Smart Mobile Productivity Apps
-
----
-
----
-
-## 🌱 Learning & Goals
-- Publish apps to Play Store with strong monetization
-- Become a professional **Mobile Engineer** in a great product team
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **santudas9535@gmail.com**  
-💼 LinkedIn: **https://www.linkedin.com/in/santu-das-8892a7284/**  
-🌐 Portfolio: **https://santudas-portfolio.vercel.app/**  
+<h2 align="center">👨‍💻 Mobile App Engineer | Flutter & Kotlin Specialist</h2>
 
 <p align="center">
-  🤝 Open to collaborations and exciting mobile app opportunities
+  <strong>From West Bengal, India 🇮🇳</strong><br>
+  Passionate about crafting pixel-perfect, high-performance mobile apps that users love.<br>
+  Turning coffee into code, ideas into apps, and bugs into features ☕→🚀
 </p>
 
----
+<br>
 
-⭐ *“Code with vision. Build with passion.”*
+<!-- Tech Stack with Icons -->
+<h2 align="center">🔥 Tech Stack & Tools</h2>
+
+<p align="center">
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+  </a>
+  <a href="https://kotlinlang.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+  </a>
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  </a>
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode&perline=7" />
+</p>
+
+<br>
+
+<!-- GitHub Stats + Streak -->
+<div align="center">
+
+```diff
++ 🚀 Currently Building: Healthcare & Smart Productivity Apps
++ 🎯 2025 Goals: Publish 3+ apps on Play Store with monetization
++ ⚡ Fun Fact: I debug in my dreams... and sometimes fix bugs there first 😅
