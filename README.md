@@ -43,8 +43,9 @@
   </a>
 </p>
 
+<!-- REMOVED FIGMA & POSTMAN -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=7" />
 </p>
 
 <br>
