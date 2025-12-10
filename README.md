@@ -53,6 +53,7 @@
 <div align="center">
 
 ```diff
-+ 🚀 Currently Building: Healthcare & Smart Productivity Apps
-+ 🎯 2025 Goals: Publish 3+ apps on Play Store with monetization
-+ ⚡ Fun Fact: I debug in my dreams... and sometimes fix bugs there first 😅
++ 🚀 Currently Building: Healthcare & Smart Productivity Apps  
++ 🎯 2025 Goal: Publish 3+ Monetized Apps on the Google Play Store  
++ ⚡ Fun Fact: I sometimes debug in my dreams... and the fix actually works 😅  
+
